@@ -17,13 +17,13 @@ Check out the working project here:
 ## ✨ Features
 
 - Generates unique business names on every execution
-- 
+
 - Uses pure JavaScript logic (no libraries or frameworks)
--  
+  
 - Lightweight and beginner-friendly project
-- 
+  
 - Completely client-side application
-- 
+  
 - Easy to understand and modify  
 
 ---
@@ -31,7 +31,7 @@ Check out the working project here:
 ## 🛠 Technology Stack
 
 - **HTML** – To run the JavaScript program
-- 
+  
 - **JavaScript** – Core logic for random name generation  
 
 ---
@@ -43,9 +43,9 @@ The program generates a business name by randomly selecting three parts:
 1. **First Word** – Describes style or quality
    
    - Crazy
-   - 
+   
    - Amazing
-   - 
+    
    - Fire  
 
 3. **Second Word** – Represents business category
