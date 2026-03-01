@@ -10,7 +10,8 @@ This project generates random and creative business names dynamically every time
 
 Check out the working project here:  
 
-👉 **Demo Link:** https://your-demo-link-here
+👉 **Demo Link:** 
+Live_deployment link-https://bbusinessnamegeneratorrepos.vercel.app/
 
 ---
 
